@@ -8,6 +8,7 @@ public class ViswaProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ViswaProjectApplication.class, args);
+		System.out.println("wejkfhkrhf");
 	}
 
 }
